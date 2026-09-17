@@ -1,6 +1,6 @@
 ## Hi, I'm Jaco 👋
 
-I'm a final-year Software Engineering student passionate about building full-stack applications that solve real problems and improve efficiency.
+I am a BScHons Information Technology and Computer Science student passionate about building full-stack applications that solve real problems and improve efficiency.
 
 ---
 
