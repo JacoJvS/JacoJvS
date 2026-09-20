@@ -91,7 +91,7 @@ North-West University · 2022–2025
 ## 🔗 Links
 
 * 📄 [Virtual CV](https://jacojvs.github.io/)
-* 📜 [Certificates](https://github.com/JacoJvS/certificates)
+* 📜 [Certificates](https://jacojvs.github.io/#certificates)
 * 💼 [LinkedIn](https://www.linkedin.com/in/jvanstaden/)
 * 🛠️ [Projects](https://github.com/JacoJvS?tab=repositories)
 
